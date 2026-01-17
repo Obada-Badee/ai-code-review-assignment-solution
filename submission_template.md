@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Obada Abdalbadee Mohammedalhssan Siralkhatim
-- Approximate time spent:
+- Approximate time spent: 45 Minutes
 
 ---
 
